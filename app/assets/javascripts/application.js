@@ -22,3 +22,6 @@
 //= require contact_me
 //= require jqBootstrapValidation
 //= require jquery-1.11.0
+//= require Chart
+//= require main
+//= require smoothscroll
