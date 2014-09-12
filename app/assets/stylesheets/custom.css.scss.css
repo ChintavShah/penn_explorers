@@ -84,11 +84,11 @@ footer {
   margin-top: 45px;
   padding-top: 5px;
   border-top: 1px solid $grayMediumLight;
-  color: $grayLight;
+  color: white;
   a {
-    color: $gray;
+    color: white;
     &:hover {
-      color: $grayDarker;
+      color: white;
     }
   }
   small {
